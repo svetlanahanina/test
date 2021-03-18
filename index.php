@@ -3,7 +3,7 @@
 <?php
 echo "Hi there.\n";
 $x = 6*7;
-echo "The answer is ".$x." what is the question\n";
+echo "The answer is ".$x.".And what is the question?\n";
 $vv = "Hello world";
 if(strpos($vv,"He") !== FALSE) echo "Right C\n";
 echo var_dump(FALSE);
